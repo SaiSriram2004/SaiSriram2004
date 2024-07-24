@@ -4,7 +4,7 @@
 <p> 🧑‍💻 I completed a 2-month internship at Becton Dickinson as a Software Intern. </p>
 <p> 👨‍💻 All of my projects are available at [https://github.com/SaiSriram2004](https://github.com/SaiSriram2004) </p>
 
-<p>📫 How to reach me **saisriramreddy.04@gmail.com**</p>
+<p>📫 How to reach me <u>saisriramreddy.04@gmail.com</u></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sai Sriram Reddy</h1>
-<h3 align="center">A dedicated software engineer and cloud practitioner from India, committed to continuous learning and organizational growth. With experience as an R&D SWE intern, expertise in MERN stack development, and AWS Cloud Practitioner certification, I thrive in dynamic environments. As an active member of the Event Management Club at VIT Chennai, I excel in collaborative team settings, always striving to stay ahead in the ever-evolving tech landscape.</h3>
-- 📔 I am currently pursuing my final year of B.Tech in Computer Science Engineering at Vellore Institute of Technology, Chennai.
-- 🧑‍💻 I completed a 2-month internship at Becton Dickinson as a Software Intern.
-- 👨‍💻 All of my projects are available at [https://github.com/SaiSriram2004](https://github.com/SaiSriram2004)
+<h3 align="center">Innovative Developer | Eager Explorer of Cutting-Edge Tech</h3>
+<p>📔  I am currently pursuing my final year of B.Tech in Computer Science Engineering at Vellore Institute of Technology, Chennai. </p>
+<p> 🧑‍💻 I completed a 2-month internship at Becton Dickinson as a Software Intern. </p>
+<p> 👨‍💻 All of my projects are available at [https://github.com/SaiSriram2004](https://github.com/SaiSriram2004) </p>
 
-- 📫 How to reach me **saisriramreddy.04@gmail.com**
+<p>📫 How to reach me **saisriramreddy.04@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
